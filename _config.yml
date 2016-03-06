@@ -1,0 +1,28 @@
+name: Kymirror Images
+favicon: null
+layout_spectrum: 0.5698370006866753
+typography_spectrum: 0.44130092137493193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.023517444962635636
+  lightness: 0.7906149444170296
+  saturation: 0.7068186139222234
+  rhythmicContrast: 0.8989356553647667
+purpose: []
